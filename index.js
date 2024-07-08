@@ -128,6 +128,11 @@ class InvokeCloudside {
                 shortcut: 'p',
                 type: 'string',
               },
+              lambdaPort: {
+                usage: 'Enable to inform lambda http port',
+                shortcut: 'lp',
+                type: 'string',
+              },
               stackName: {
                 usage: 'CloudFormation stack to use for cloudside resources',
                 shortcut: 'y',
