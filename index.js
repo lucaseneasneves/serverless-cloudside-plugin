@@ -123,6 +123,11 @@ class InvokeCloudside {
                 shortcut: 'r',
                 type: 'boolean',
               },
+              httpPort: {
+                usage: 'Enable to inform http port',
+                shortcut: 'p',
+                type: 'string',
+              },
               stackName: {
                 usage: 'CloudFormation stack to use for cloudside resources',
                 shortcut: 'y',
