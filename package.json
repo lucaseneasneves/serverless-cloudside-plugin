@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jeremydaly/serverless-cloudside-plugin.git"
+    "url": "git+https://github.com/lucaseneasneves/serverless-cloudside-plugin"
   },
   "keywords": [
     "serverless",
